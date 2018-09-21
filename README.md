@@ -7,7 +7,7 @@ A Processing project about moving creatures trying to not starve
 -Zoom+ or Zoom- with Arrow UP or Arrow DOWN
 -Press F to feed
 
-#Other informations
+# Other informations
 -the program will also generate randomly some other bubbloes and some food to feed them
 -you can create other biomes
 
